@@ -1,0 +1,40 @@
+body
+{
+    background-size:cover;
+    background-position: center;
+    font-family: 'Neucha', cursive;
+
+}
+
+.heading
+{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+}
+
+.subheading
+{
+    font-size: 15px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status, #start_model
+{
+    font-size: 18px;
+}
+
+canvas
+{
+    box-shadow:10px 10px 10px lightskyblue;
+    border-radius:10px;
+    margin-top: 50px;
+
+}
+
+#object_name
+{
+	width: 25%;
+    border-radius: 15px;
+}
